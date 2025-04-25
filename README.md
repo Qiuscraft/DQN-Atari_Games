@@ -50,6 +50,12 @@ pip install -r requirements.txt
 pip install "stable_baselines3==2.0.0a1" "gymnasium[atari,accept-rom-license]==0.28.1"  "ale-py==0.8.1"
 ```
 
+## Play
+
+```bash
+python playdemo.py
+```
+
 ## Usage
 
 To train and evaluate the DQN agent, follow the steps outlined below:
