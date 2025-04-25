@@ -37,7 +37,7 @@ To run this project, you will need the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AIFep-FDU/DQN-Atari_Games.git
+git clone https://github.com/AI-FDU/DQN-Atari_Games.git
 ```
 
 2. Install the required dependencies:
